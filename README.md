@@ -31,7 +31,7 @@ like this：
 
 if like this // 如果这样子的话：
 
-    ![2](https://raw.githubusercontent.com/fuujiro/pictures/master/dlut-ipv6/2.png)
+![2](https://raw.githubusercontent.com/fuujiro/pictures/master/dlut-ipv6/2.png)
 
     Congratulation！You success!
 
