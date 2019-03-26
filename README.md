@@ -19,6 +19,9 @@ open your terminal, macOS/Linux -> terminal, windows -> powershell
     Get-NetRoute -AddressFamily IPv6 -InterfaceAlias 以太网 -DestinationPrefix "::/0"
 ```
 
+**macOS & Linux maybe fail...**
+
+
 like this：
 
 就像这样：
