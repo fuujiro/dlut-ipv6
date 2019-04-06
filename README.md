@@ -1,4 +1,15 @@
 # dlut-ipv6
+
+Hello, Every Guys!
+
+I'm sure that the new way use `IPv6` is more useful.
+
+More detail, can see at [SS科学上网使用BBR加速 & 校园网IPv6免流](https://blog.fuujiro.com/2019/04/07/SS%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E4%BD%BF%E7%94%A8BBR%E5%8A%A0%E9%80%9F-%E6%A0%A1%E5%9B%AD%E7%BD%91ipv6%E5%85%8D%E6%B5%81/)
+
+But now, so sorry that this blog is only support **Chinese**.
+
+---
+
 利用ipv6免流蹭网，大连理工都气哭惹
 
 ### step 1 准备
